@@ -1,0 +1,13 @@
+body {
+	background-color: #ffc0cb;
+}
+h1 {
+	color: white;
+    text-align: center;
+    font-size: 35px;
+    font-family: Palatino;
+}
+video {
+	display: block;
+	margin: 0 auto;
+}

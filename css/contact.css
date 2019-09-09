@@ -1,0 +1,15 @@
+body {
+    background-color: #ffc0cb;
+}
+h1 {
+    color: grey;
+    text-align: center;
+    font-size: 75px;
+    font-family: Palatino;
+}
+p {
+   color: #007fff;
+   text-align: center;
+   font-size: 35px;
+   font-family: Palatino; 
+}
